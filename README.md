@@ -1,4 +1,4 @@
-# DiabeticRetinopathy-Webapp
+# Diabetic Retinopathy Web App
 Webapp for classification of Diabetic Retinopathy from retinal images using flask and keras
 
 ## Requirements Insatallation
