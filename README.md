@@ -43,7 +43,7 @@ Advantages of DenseNet-BC are:
  Dense Net architecture as shown in the original paper which shows the connections from each layer to every other layer:
  
  <p align="center">
-  <img src="https://github.com/snsten/Diabetic-Retinopathy-WebApp/blob/master/data/dense_net.JPG">
+  <img src="https://github.com/snsten/Diabetic-Retinopathy-WebApp/blob/master/data/densenet.jpg">
 </p>
 
 ## Requirements Insatallation
