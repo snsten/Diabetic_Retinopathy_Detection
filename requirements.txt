@@ -15,4 +15,4 @@ scipy==1.4.1
 tensorflow==2.7.2
 tensorflow-estimator==2.2.0
 tqdm==4.42.1
-Werkzeug==0.16.0
+Werkzeug==2.2.3
